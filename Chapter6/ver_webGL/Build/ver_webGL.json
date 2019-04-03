@@ -1,0 +1,13 @@
+{
+"companyName": "yu_mori",
+"productName": "The Ball",
+"dataUrl": "ver_webGL.data.unityweb",
+"wasmCodeUrl": "ver_webGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "ver_webGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
